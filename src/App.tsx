@@ -183,7 +183,7 @@ export default function App() {
             <div className="bg-emerald-600 size-8 rounded-lg flex items-center justify-center">
               <Wallet className="text-white" size={20} />
             </div>
-            <h1 className="text-xl font-bold tracking-tight text-emerald-500">CryptoLusitano</h1>
+            <h1 className="text-xl font-bold tracking-tight text-emerald-500">Nilton</h1>
           </div>
           
           <nav className="space-y-1">
@@ -250,7 +250,7 @@ function LoginScreen({ onLogin }: { onLogin: (email: string) => void }) {
           <div className="inline-flex items-center justify-center bg-emerald-600 size-16 rounded-2xl mb-6 shadow-xl shadow-emerald-900/20">
             <Wallet className="text-white" size={32} />
           </div>
-          <h1 className="text-3xl font-bold text-white mb-2">CryptoLusitano</h1>
+          <h1 className="text-3xl font-bold text-white mb-2">Nilton</h1>
           <p className="text-slate-400">Sign in to your professional crypto dashboard</p>
         </div>
 

@@ -1,4 +1,4 @@
--- Initial Schema for CryptoLusitano
+-- Initial Schema for Nilton
 
 -- Users Table
 CREATE TABLE IF NOT EXISTS users (
